@@ -1,0 +1,1 @@
+If you use gmail, then you should create an app password in settings (https://myaccount.google.com/apppasswords) and use it, otherwise gmail.com may prevent you from sending messages.
